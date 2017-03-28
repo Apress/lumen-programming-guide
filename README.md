@@ -1,4 +1,4 @@
-#Apress Source Code
+# Apress Source Code
 
 This repository accompanies [*Lumen Programming Guide*](http://www.apress.com/9781484221860) by Paul Redmond (Apress, 2016).
 
@@ -6,17 +6,17 @@ This repository accompanies [*Lumen Programming Guide*](http://www.apress.com/97
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-##Releases
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-##Contributions
+## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
 
 #From the Author
 
-## Lumen PHP Framework
+##  Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
@@ -26,14 +26,14 @@ See the file Contributing.md for more information on how you can contribute to t
 
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
-## Official Documentation
+##  Official Documentation
 
 Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
 
-## Security Vulnerabilities
+##  Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-### License
+## # License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
